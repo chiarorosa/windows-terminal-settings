@@ -38,8 +38,8 @@
     "defaults": {
       "colorScheme": "Catppuccin Mocha",
       "font": {
-        "face": "Fira Code Retina"
-        //"face": "JetBrains Mono"
+        "face": "Fira Code Retina",
+        "weight": "normal"
       },
       "opacity": 50,
       "padding": "16, 16, 16, 16",
